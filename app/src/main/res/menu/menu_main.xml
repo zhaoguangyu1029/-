@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.hasee.calculator3_2.MainActivity">
+    <item
+        android:id="@+id/calculator"
+        android:orderInCategory="100"
+        android:title="calculator3-2"
+        />
+    <item
+        android:id="@+id/transform"
+        android:orderInCategory="100"
+        android:title="单位转换"
+        />
+    <item
+        android:id="@+id/transform2"
+        android:orderInCategory="100"
+        android:title="进制转换"
+        />
+
+</menu>
